@@ -1,0 +1,58 @@
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.exe
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.deps.json
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.runtimeconfig.json
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.runtimeconfig.dev.json
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.dll
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\ref\GeometriaAPI.dll
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.pdb
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.AssemblyInfo.cs
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\staticwebassets\GeometriaAPI.StaticWebAssets.Manifest.cache
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\staticwebassets\GeometriaAPI.StaticWebAssets.xml
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\scopedcss\bundle\GeometriaAPI.styles.css
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.CopyComplete
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.dll
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\ref\GeometriaAPI.dll
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.pdb
+C:\Users\android\Desktop\GeometriaProjeto\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.genruntimeconfig.cache
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.exe
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.deps.json
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.runtimeconfig.json
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.runtimeconfig.dev.json
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.dll
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\ref\GeometriaAPI.dll
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\GeometriaAPI.pdb
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.AssemblyInfo.cs
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\staticwebassets\GeometriaAPI.StaticWebAssets.Manifest.cache
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\staticwebassets\GeometriaAPI.StaticWebAssets.xml
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\scopedcss\bundle\GeometriaAPI.styles.css
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.csproj.CopyComplete
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.dll
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\ref\GeometriaAPI.dll
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.pdb
+C:\Users\android\Desktop\testando codigo\GeometriaProjeto-teste\GeometriaAPI\obj\Debug\net5.0\GeometriaAPI.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+Comandos Usados:
+
+code .
+
+ls
+cd 
+git clone
+git add .
+git comnet -m 
+git push
+
+dotnet new mstest -n GeometriaAPITest
+
+dotnet sln add ./GeometriaAPITest/GeometriaAPITest.csproj
+dotnet sln add ./GeometriaAPI/GeometriaAPI.csproj
+
+dotnet add ./GeometriaAPITest/GeometriaAPITest.csproj reference GeometriaAPI/GeometriaAPI.csproj
